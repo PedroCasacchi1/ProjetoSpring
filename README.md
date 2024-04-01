@@ -1,6 +1,6 @@
 <center>
     <h1 align="center">Projeto com Spring</h1>
-    <h4 align="center">Trabalho da matéria de Linguagem de programação <strong>Orientada a Objetos</strong> </h4>
+    <h4 align="center">Trabalho da matéria de Linguagem de Programação <strong>Orientada a Objetos</strong> </h4>
   <p align="center">
         <strong>Data de Entrega:</strong> 3 Abril 2024<br>
         <strong>Valor:</strong> 70 pontos
