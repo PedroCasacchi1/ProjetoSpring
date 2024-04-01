@@ -32,6 +32,7 @@ A interface Aluguel define um conjunto de operações que podem ser realizadas e
 ### Encapsulamento
 Os atributos da classe Aluguel são declarados como privados, o que significa que eles não podem ser acessados diretamente de fora da classe. Para permitir o acesso a esses atributos, métodos getters e setters são fornecidos, garantindo que o acesso e a modificação dos dados ocorram de maneira controlada.
 
+
 ## Trabalho com Spring
 Baseado no projeto desenvolvido durante as aulas você deverá:
 
