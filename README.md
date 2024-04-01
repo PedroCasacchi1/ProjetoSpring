@@ -3,7 +3,7 @@
     <h4 align="center">Trabalho da matéria de Linguagem de Programação <strong>Orientada a Objetos</strong> </h4>
   <p align="center">
         <strong>Data de Entrega:</strong> 3 Abril 2024<br>
-        <strong>Valor:</strong> 70 pontos
+        <strong>Valor:</strong> 90 pontos
     </p> 
 </center>
 
