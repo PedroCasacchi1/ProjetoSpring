@@ -23,5 +23,6 @@ OBS2: Lembrem-se que teremos uma avaliação escrita em cima do projeto desenvol
 
 Forma de entrega: Todos componentes do grupo deverão gravar um vídeo de no máximo 10 minutos expondo as funcionalidades do projeto, bem como o código fonte (repositório público no Git). É obrigatório a participação de TODOS componentes.
 
-Trabalhos atrasados serão desconsiderados
+Trabalhos atrasados serão desconsiderados.
+
 Trabalhos copiados serão desconsiderados
