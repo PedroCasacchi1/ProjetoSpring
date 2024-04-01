@@ -1,9 +1,9 @@
 ## Relatório Dos Componentes de Orientação a Objetos
-Herança: As classes Carro e Moto herdam atributos e métodos da classe Aluguel. Isso promove a reutilização de código
+### Herança: As classes Carro e Moto herdam atributos e métodos da classe Aluguel. Isso promove a reutilização de código
 
-###Classes Abstratas: A classe abstrata Aluguel serve como uma base para as classes concretas Carro e Moto. Ela contém atributos e métodos comuns a ambas as subclasses, permitindo a reutilização de código e fornecendo uma estrutura comum para suas implementações específicas.
+### Classes Abstratas: A classe abstrata Aluguel serve como uma base para as classes concretas Carro e Moto. Ela contém atributos e métodos comuns a ambas as subclasses, permitindo a reutilização de código e fornecendo uma estrutura comum para suas implementações específicas.
 
-###Classes Concretas: São as classes Carro e Moto que utilizamos para herdar uma classe abstrata implementando as funcionalidades definidas pela classe mãe
+### Classes Concretas: São as classes Carro e Moto que utilizamos para herdar uma classe abstrata implementando as funcionalidades definidas pela classe mãe
 
 Métodos abstratos: Define um conjunto de operações que qualquer implementação dessa interface deve fornecer.
 
